@@ -26,7 +26,7 @@
   },
   {
     question: "Chakhsya dyalk ? ",
-    answers: ["Extrovert", "3adi bin w bin" , "intvroert" ],
+    answers: ["Extrovert", "3adi bin w bin" , "introvert" ],
     goodAnswers: [1,2,3], // Multiple correct answers (indexes)
   },
   {
