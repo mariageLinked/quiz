@@ -177,7 +177,7 @@ function showFinalPage() {
 
   if (goodAnswers === quiz.length) {
     message = '<h1 class="question">Nja7ti albatala 🎉 </h1>' ;
-    btn = '<a href="https://www.facebook.com/profile.php?id=61551605451982" class="facebook-button"> <i class="fa fa-facebook" aria-hidden="true"></i>  Aji nhdro f FB';
+    btn = '<a href="https://www.facebook.com/ssaayy.mmyy" class="facebook-button"> <i class="fa fa-facebook" aria-hidden="true"></i>  Aji nhdro f FB';
     btn2 = '<a href="https://www.instagram.com/linkedinmar_" class="insta-button"> <i class="fa fa-instagram" aria-hidden="true"></i>  Ola insta';
   } else {
 
